@@ -3,7 +3,7 @@ package flowCtrlEx;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class LotoList {
+public class LotoList { // Unfinished - needs to make sure that in each lotto list there are unique numbers.
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);
